@@ -9,4 +9,5 @@ func main(){
 	fmt.Println("测试pre-commit")
 	fmt.Println("测试pre-commit2")
 	fmt.Println("测试pre-commit3")
+	fmt.Println("测试pre-commit4")
 }
